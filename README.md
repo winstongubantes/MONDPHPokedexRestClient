@@ -3,7 +3,7 @@
 ![EnterpriseDev](https://github.com/winstongubantes/MONDPHPokedexRestClient/blob/master/Assets/Get%20Started.jpg)
 
 Visual Studio and Xamarin provide developers with the best-in-class tools to deliver native Android, iOS, and Windows apps, using their existing .NET skills, teams, and code. 
-You and your team (maximum of 3 members) are invited to join our Enterprise Mobile App Dev Workshop, an instructor-led session where we will explore building rich mobile applications on the Xamarin platform.
+You are invited to join our Workshop, an instructor-led session where we will explore building rich mobile applications on the Xamarin platform.
 
 
 In this session, you’ll learn how to:
