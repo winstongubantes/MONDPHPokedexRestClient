@@ -10,6 +10,8 @@ In this session, you’ll learn how to:
 * Seamlessly integrate applications with your data services
 * Maximize Visual Studio Features
 
+
+
 ##Pre-Requisites
 ### Mac OSX
 * [Visual Studio for Mac](https://www.visualstudio.com/vs/visual-studio-mac/)
