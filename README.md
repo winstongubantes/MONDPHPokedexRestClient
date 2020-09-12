@@ -30,7 +30,7 @@ In this session, you’ll learn how to:
 * The expected outcome is in the "Finish" folder
 
 ##License
-Copyright (c) 2016 Winston Gubantes
+Copyright (c) 2020 Winston Gubantes
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
