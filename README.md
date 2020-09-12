@@ -1,4 +1,4 @@
-# Comsuming a Webservices with Visual Studio and Xamarin Workshop
+# Comsuming a Webservices with Visual Studio and Xamarin
 
 ![EnterpriseDev](https://github.com/winstongubantes/Love2Code-Xamarin-Training/blob/master/Assets/EnterpriseMobileApp.png)
 
